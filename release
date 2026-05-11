@@ -1,0 +1,10 @@
+{
+  "app": "TimeTrackOverlay_android",
+  "windows": {
+    "stable": {
+      "version": "",
+      "link": "",
+      "sha256": ""
+    }
+  }
+}
