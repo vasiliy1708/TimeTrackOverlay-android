@@ -1,10 +1,10 @@
-﻿{
+{
   "app": "TimeTrackOverlay_android",
   "android": {
     "stable": {
-      "version": "0.1.11",
-      "link": "https://github.com/vasiliy1708/TimeTrackOverlay-android/releases/download/v0.1.11/TimeTrackOverlay.apk",
-      "sha256": "83119c53970335117093bf939c1c598b1cd2217dac6619a6a8c3e1c641068461"
+      "version": "0.1.12",
+      "link": "https://github.com/vasiliy1708/TimeTrackOverlay-android/releases/download/v0.1.12/TimeTrackOverlay.apk",
+      "sha256": "b46185f672a3cb56f1b3965546e4c77adb40f1fd5faec0cfc7c6ff315e2c3079"
     }
   }
 }
